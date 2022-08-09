@@ -1,0 +1,12 @@
+{
+  "magisk": {
+    "version": "25.2",
+    "versionCode": "25200",
+    "link": "https://github.com/Yanndroid/magisk-files/raw/25.2/app-release.apk",
+    "note": "https://topjohnwu.github.io/Magisk/releases/25200.md"
+  },
+  "stub": {
+    "versionCode": "33",
+    "link": "https://github.com/Yanndroid/magisk-files/raw/25.2/stub-release.apk"
+  }
+}
